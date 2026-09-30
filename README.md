@@ -1,4 +1,5 @@
 # SeaDronesSee
+DAY-1
 #Research Paper:
 1. SeaDronesSee: A Maritime Benchmark for Detecting Humans in Open Water
 L. A. Varga, B. Kiefer, M. Messmer, A. Zell. IEEE/CVF WACV 2022 (a conference paper, but it is the only source for the dataset).
